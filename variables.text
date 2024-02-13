@@ -1,0 +1,15 @@
+
+Age : acceptable variable
+My-age : not acceptable beacause the special character (-)
+My_age : acceptable character
+_age : acceptable character
+2x : not acceptable beacause you cannot start the variable name by number
+x2 : acceptable variable
+My Name : not acceptable beacause the white space
+MyName : acceptable
+#NAME : not acceptable beacause the special character (#)
+$NAME : not acceptable beacause the special character ($)
+$NAME : not acceptable beacause the special character ($)
+N@ME : not acceptable beacause the special character (@)
+int : not acceptable bcs it's Reserved keyword
+float: not acceptable bcs it's Reserved keyword
