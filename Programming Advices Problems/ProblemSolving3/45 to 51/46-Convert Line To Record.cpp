@@ -45,7 +45,6 @@ stClinetData Get_Data_From_Line(string Data)
     ClientData.phone = vData[3];
     ClientData.Account_Balance = vData[4];
     return ClientData;
-
 }
 
 int main()

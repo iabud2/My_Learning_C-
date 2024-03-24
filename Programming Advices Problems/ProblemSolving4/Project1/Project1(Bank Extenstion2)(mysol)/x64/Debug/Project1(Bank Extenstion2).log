@@ -1,0 +1,7 @@
+﻿  Project1(Bank Extenstion2).cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\Project1(Bank Extenstion2).cpp(89,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\Project1(Bank Extenstion2).cpp(683): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\Project1(Bank Extenstion2).cpp(709): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\Project1(Bank Extenstion2).cpp(1174): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\Project1(Bank Extenstion2).cpp(1238): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+  Project1(Bank Extenstion2).vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project1\Project1(Bank Extenstion2)(mysol)\x64\Debug\Project1(Bank Extenstion2).exe

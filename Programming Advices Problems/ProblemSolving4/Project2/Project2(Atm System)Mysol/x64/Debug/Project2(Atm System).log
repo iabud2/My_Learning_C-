@@ -1,0 +1,5 @@
+﻿  Project2(Atm System).cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project2\Project2(Atm System)\Project2(Atm System).cpp(46,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project2\Project2(Atm System)\Project2(Atm System).cpp(297,47): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project2\Project2(Atm System)\Project2(Atm System).cpp(220): warning C4715: 'Atm_PerformQuickWithDrawChoice': not all control paths return a value
+  Project2(Atm System).vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving4\Project2\Project2(Atm System)\x64\Debug\Project2(Atm System).exe
