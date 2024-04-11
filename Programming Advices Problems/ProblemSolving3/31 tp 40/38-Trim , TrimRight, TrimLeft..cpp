@@ -11,7 +11,6 @@ string Trim_Left(string MyString)
             return (MyString.substr(i, MyString.length() - i));
         }
     }
-
     return "";
 }
 
@@ -24,13 +23,12 @@ string Trim_Right(string MyString)
             return MyString.substr(0, i + 1);
         }
     }
-
     return "";
 }
 
 string Trim(string MyString)
 {
-    Trim_Left(MyString);
+    Trim_Left(MyString);    
     Trim_Right(MyString);
     return MyString;
 }

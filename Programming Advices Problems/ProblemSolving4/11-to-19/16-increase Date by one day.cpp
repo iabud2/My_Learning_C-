@@ -57,7 +57,7 @@ bool is_Last_Month(stDate Date)
     return (Date.Month == 12);
 }
 
-stDate Increase_Date_By_One_day(stDate &Date)
+stDate Decrease_Date_By_One_day(stDate &Date)
 {
     if (is_Last_Day(Date))
     {
@@ -85,7 +85,7 @@ int main()
     stDate Date;
     Read_Date(Date);
     printf("Date Before add one day : %d/%d/%d\n", Date.Day, Date.Month, Date.Year);
-    Increase_Date_By_One_day(Date);
+    Decrease_Date_By_One_day(Date);
     printf("Date After add one day : %d/%d/%d\n", Date.Day, Date.Month, Date.Year);
     return 0;
 }

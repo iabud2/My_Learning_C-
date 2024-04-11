@@ -134,7 +134,7 @@ enDateStatus CompareDates(stDate Date1, stDate Date2)
     {
         return enDateStatus(0);
     }
-        return enDateStatus(1);
+    return enDateStatus(1);
 }
 
 bool is_Over_Lap_Periods(Periods Period1, Periods Period2)
@@ -153,7 +153,7 @@ int Period_Length_In_Days(Periods Period, bool IncludeEndDate = false)
 bool is_Date_in_Period(Periods Period1, stDate Date)
 {
     return !(CompareDates(Date, Period1.Start_Date) == enDateStatus::Before ||
-                CompareDates(Date, Period1.End_Date) == enDateStatus::After);
+             CompareDates(Date, Period1.End_Date) == enDateStatus::After);
 }
 
 int Count_Overlap_Days(Periods Period1, Periods Period2)
@@ -164,7 +164,7 @@ int Count_Overlap_Days(Periods Period1, Periods Period2)
 
     if (!is_Over_Lap_Periods(Period1, Period2))
         return 0;
-    
+
     if (Period1_Length < Period2_Length)
     {
         while (is_Date1_Before_Date2(Period1.Start_Date, Period1.End_Date))

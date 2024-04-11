@@ -47,7 +47,7 @@ bool is_Last_Month(stDate Date)
     return (Date.Month == 12);
 }
 
-stDate Increase_Date_By_One_day(stDate &Date)
+stDate Decrease_Date_By_One_day(stDate &Date)
 {
     if (is_Last_Day(Date))
     {
@@ -89,7 +89,7 @@ int Diff_In_Days(stDate Date1, stDate Date2, bool includ_Current_Day = false)
     while (is_Date1_Before_Date2(Date1, Date2))
     {
         Days++;
-        Date1 = Increase_Date_By_One_day(Date1);
+        Date1 = Decrease_Date_By_One_day(Date1);
     }
     return (includ_Current_Day) ? (Days != 0) ? ++Days : Days : Days;
 }

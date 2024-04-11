@@ -11,7 +11,7 @@ string Read_String()
     return message;
 }
 
-void Convert_To_Upper_Case(string Words)
+void PrintFirstLetterOfEachWord(string Words)
 {
     bool Check_First_Letter = true;
     for (int i = 0; i < Words.length(); i++)
@@ -26,6 +26,6 @@ void Convert_To_Upper_Case(string Words)
 
 int main()
 {
-    Convert_To_Upper_Case(Read_String());
+    PrintFirstLetterOfEachWord(Read_String());
     return 0;
 }

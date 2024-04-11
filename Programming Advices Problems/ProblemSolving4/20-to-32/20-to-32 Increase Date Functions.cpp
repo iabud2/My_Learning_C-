@@ -82,7 +82,7 @@ bool is_Last_Month(stDate Date)
     return (Date.Month == 12);
 }
 
-stDate Increase_Date_By_One_day(stDate &Date)
+stDate Decrease_Date_By_One_day(stDate &Date)
 {
     if (is_Last_Day(Date))
     {
@@ -109,7 +109,7 @@ stDate Increase_Date_By_X_Day(stDate &Date, int X_Days)
 {
     for (int i = 1; i <= X_Days; i++)
     {
-        Date = Increase_Date_By_One_day(Date);
+        Date = Decrease_Date_By_One_day(Date);
     }
 
     return Date;
@@ -225,7 +225,7 @@ void Date_After(stDate Date)
 {
     cout << "\n\nDate After : \n\n";
     short x_Days = 10;
-    Date = Increase_Date_By_One_day(Date);
+    Date = Decrease_Date_By_One_day(Date);
     printf("\n01-Adding One day is : %d/%d/%d\n", Date.Day, Date.Month, Date.Year);
     Date = Increase_Date_By_X_Day(Date, x_Days);
     printf("\n02-Adding %d day(s) is : %d/%d/%d\n", x_Days, Date.Day, Date.Month, Date.Year);

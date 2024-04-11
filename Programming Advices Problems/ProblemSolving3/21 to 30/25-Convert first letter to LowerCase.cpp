@@ -12,7 +12,7 @@ string Read_String()
     return message;
 }
 
-void Convert_To_Upper_Case(string &Words)
+void Convert_To_Lower_Case(string &Words)
 {
     bool Check_First_Letter = true;
     for (int i = 0; i < Words.length(); i++)
@@ -31,7 +31,7 @@ int main()
     string MyString = Read_String();
     cout << "String Before Edit is : \n"
         << MyString << endl;
-    Convert_To_Upper_Case(MyString);
+    Convert_To_Lower_Case(MyString);
     cout << "String After Edit is:\n"
         << MyString << endl;
     return 0;

@@ -92,7 +92,7 @@ bool is_First_Month(stDate Date)
     return (Date.Month == 1) ? true : false;
 }
 
-stDate Increase_Date_By_One_day(stDate &Date)
+stDate Decrease_Date_By_One_day(stDate &Date)
 {
     if (is_First_Day(Date))
     {
@@ -119,7 +119,7 @@ stDate Decrease_Date_By_X_Day(stDate &Date, int X_Days)
 {
     for (int i = 1; i <= X_Days; i++)
     {
-        Date = Increase_Date_By_One_day(Date);
+        Date = Decrease_Date_By_One_day(Date);
     }
 
     return Date;
@@ -235,7 +235,7 @@ void Date_After(stDate Date)
 {
     cout << "\n\nDate Before : \n\n";
     short x_Days = 10;
-    Date = Increase_Date_By_One_day(Date);
+    Date = Decrease_Date_By_One_day(Date);
     printf("\n01-Before One day is : %d/%d/%d\n", Date.Day, Date.Month, Date.Year);
     Date = Decrease_Date_By_X_Day(Date, x_Days);
     printf("\n02-Before %d day(s) is : %d/%d/%d\n", x_Days, Date.Day, Date.Month, Date.Year);

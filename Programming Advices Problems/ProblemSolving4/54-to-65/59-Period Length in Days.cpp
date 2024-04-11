@@ -164,13 +164,12 @@ int Period_Length_In_Days(Periods Period, bool IncludeEndDate = false)
     return (Diff_In_Days(Period.Start_Date, Period.End_Date, IncludeEndDate));
 }
 
-
 int main()
 {
     Periods Period1;
     cout << "Enter Period 1:\n";
     Period1 = Read_Periods(Period1);
-    printf("Period Length is : %d\n", Period_Length_In_Days(Period1)) ;
-    printf("Period Length (Including End Date) is : %d\n", Period_Length_In_Days(Period1, true)) ;
+    printf("Period Length is : %d\n", Period_Length_In_Days(Period1));
+    printf("Period Length (Including End Date) is : %d\n", Period_Length_In_Days(Period1, true));
     return 0;
 }

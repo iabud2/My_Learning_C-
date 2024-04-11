@@ -44,19 +44,19 @@ short Days_In_Month(int Year, int Month)
     return 30;
 }
 
-short Hours_In_Year(int Year, int Month)
+short Hours_In_Month(int Year, int Month)
 {
     return Days_In_Month(Year, Month) * 24;
 }
 
-int Minuts_In_Year(int Year, int Month)
+int Minuts_In_Month(int Year, int Month)
 {
-    return Hours_In_Year(Year, Month) * 60;
+    return Hours_In_Month(Year, Month) * 60;
 }
 
-int Seconds_In_Year(int Year, int Month)
+int Seconds_In_Month(int Year, int Month)
 {
-    return Minuts_In_Year(Year, Month) * 60;
+    return Minuts_In_Month(Year, Month) * 60;
 }
 
 int main()
@@ -64,7 +64,7 @@ int main()
     int Year = Read_Number("Please Enter a Year to check ? \n");
     int Month = Read_Number("Enter a Month to Check : \n");
     cout << "Number of Days    in Month [" << Month << "] is " << Days_In_Month(Year, Month) << endl;
-    cout << "Number of Hours   in Month [" << Month << "] is " << Hours_In_Year(Year, Month) << endl;
-    cout << "Number of Minutes in Month [" << Month << "] is " << Minuts_In_Year(Year, Month) << endl;
-    cout << "Number of Seconds in Month [" << Month << "] is " << Seconds_In_Year(Year, Month) << endl;
+    cout << "Number of Hours   in Month [" << Month << "] is " << Hours_In_Month(Year, Month) << endl;
+    cout << "Number of Minutes in Month [" << Month << "] is " << Minuts_In_Month(Year, Month) << endl;
+    cout << "Number of Seconds in Month [" << Month << "] is " << Seconds_In_Month(Year, Month) << endl;
 }
