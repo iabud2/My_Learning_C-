@@ -1,0 +1,17 @@
+﻿  String Library Project.cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\clsString.h(47,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\clsString.h(75,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\clsString.h(80,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\clsString.h(258,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\clsString.h(298,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+  String Library Project.vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project1\String Library Project\x64\Debug\String Library Project.exe

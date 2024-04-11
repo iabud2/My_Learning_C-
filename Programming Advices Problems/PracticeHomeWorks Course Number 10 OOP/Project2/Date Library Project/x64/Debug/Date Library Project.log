@@ -1,0 +1,19 @@
+﻿  Date Library Project.cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\Date Library Project.cpp(1,9): warning C4615: #pragma warning: unknown user warning type
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsString.h(47,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsString.h(75,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsString.h(80,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsString.h(258,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsString.h(298,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date%20Library%20Project.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\clsDate.h(937): warning C4715: 'clsDate::CompareDates': not all control paths return a value
+  Date Library Project.vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\PracticeHomeWorks Course Number 10 OOP\Project2\Date Library Project\x64\Debug\Date Library Project.exe
