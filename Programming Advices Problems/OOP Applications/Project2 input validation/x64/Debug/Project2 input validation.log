@@ -1,0 +1,17 @@
+﻿  Project2 input validation.cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\clsString.h(47,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project2%20input%20validation.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\clsString.h(75,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project2%20input%20validation.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\clsString.h(80,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project2%20input%20validation.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\clsString.h(258,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project2%20input%20validation.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\clsString.h(298,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project2%20input%20validation.cpp')
+  
+  Project2 input validation.vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project2 input validation\x64\Debug\Project2 input validation.exe

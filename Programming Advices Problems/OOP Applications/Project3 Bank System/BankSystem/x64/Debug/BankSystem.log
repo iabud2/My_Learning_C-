@@ -1,0 +1,71 @@
+﻿  BankSystem.cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsUser.h(189,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+  C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsUser.h(155,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsInputValidate.h(122,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsInputValidate.h(126,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsBankClient.h(196,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+  C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsBankClient.h(144,9):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsBankClient.h(397,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsBankClient.h(409,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsUpdateClientScreen.h(46,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsTotalBalancesScreen.h(55,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsTransferScreen.h(37,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsTransferScreen.h(42,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsLoginRegisterScreen.h(45,21): warning C4129: 'm': unrecognized character escape sequence
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsCurrency.h(27,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsUpdateCurrencyRateScreen.h(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsCurrencyCalcolatorScreen.h(28,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsBankClient.h(374): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\clsUser.h(336): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\OOP Applications\Project3 Bank System\BankSystem\x64\Debug\BankSystem.exe

@@ -56,7 +56,7 @@ char Output(int number)
 	}
 	else if (pick_Out_Put(number) == enRandom::SpecialCharactter)
 	{
-		return char(Random_Number(33, 47));
+			
 	}
 	else if (pick_Out_Put(number) == enRandom::Digit)
 	{
