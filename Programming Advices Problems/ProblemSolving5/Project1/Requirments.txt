@@ -1,0 +1,37 @@
+Project1 : MyDoubleLinkedList.
+
+01- make new directory named 'DS'
+02- make new class named 'clsDblLinkedList'
+03- make the class support template data type
+04- define a method named 'InsertAtBeginning'
+05- define a method named 'PrintList'
+06- define a method named 'Find'
+07- define a method named 'InsertAfter'
+08- define a method named 'InsertAtEnd'
+09- define a method named 'DeleteNode'
+10- define a method named 'DeleteFirstNode'
+11- define a method named 'DeleteLastNode'
+
+Extension1:
+12- define a methid named 'Size'
+
+Extension2:
+13- define 'IsEmpty' method.
+
+Extension3:
+14- define 'Clear' method.
+
+Extension4:
+15- define 'Reverse' method.
+
+Extension5:
+16- define 'GetNode' method.
+
+Extension6:
+17- define 'GetItem' method.
+
+Extension7:
+18- define 'UpdateItem' methid.
+
+Extension8:
+19- OverLoad 'InsertAfter' you can add item by index.

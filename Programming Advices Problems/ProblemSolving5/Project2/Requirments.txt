@@ -1,0 +1,30 @@
+Project2 : MyQueue.
+
+1- Make a class name 'clsMyQueue'
+2- define a method named 'Print'.
+3- define a method named 'push'.
+4- define a method named 'pop'.
+5- define a methid named 'Size'.
+6- define a method named 'front'.
+7- define a method named 'back'.
+
+Extension1 :
+8- define a method named 'GetItem'.
+
+Extension2 :
+9- define a method named 'Reverse'.
+
+Extension3 :
+10- define a method named 'UpdateItem'.
+
+Extension4 :
+11- define a method named 'InsertAfter'.
+
+Extension5 :
+12- define a method named 'InsertAtFront'.
+
+Extension6 :
+13- define a method named 'InsertAtBack'.
+
+Extension7 :
+14- define a method named 'Clear' To Clear the Queue.

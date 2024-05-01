@@ -1,0 +1,23 @@
+﻿  Project8.cpp
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\clsQueueLine.h(104,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project8.cpp')
+  
+  Project8.vcxproj -> C:\Users\iabud\Desktop\me\c++\Problems\Programming Advices Problems\ProblemSolving5\Project8\x64\Debug\Project8.exe
